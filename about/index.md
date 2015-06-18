@@ -1,34 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Pilgrimson
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2015-6-19
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+#Pilgrimson?
+Pilgrimson은 순례자의 후손이라는 뜻으로서, 살아계신 하나님의 아들이신 예수님을 주와 그리스도로 받는 모든 순례자들의 뒤를 잇는 자라는 의미로 사용하고 있습니다.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
-
-## What HPSTR brings to the table:
-
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+#Confession
+* Pilgrimson은 초대교회의 보편적 신앙고백인 사도신경, 니케아신경(325년), 콘스탄티노플신경(381년), 칼케돈신경(451년), 아타나시우스신경(500년경)을 고백한다.
+* Pilgrimson은 중세 진리의 암흑기를 헤쳐나온 개혁자들의 사상을 따라, 오직 성경으로만(Sola scriptura), 오직 믿음으로만(Sola fide), 오직 은혜로만(Sola gratia), 오직 그리스도로만(Solus Christus) 구원을 받으며 그러한 자만 오직 하나님께만 영광(Soli Deo gloria)이라는 인간의 본래 목적이 회복됨을 고백한다.
+* Pilgrimson은 개혁자들의 유산인 웨스트민스터 문서들(1647년), 하이델베르그요리문답(1563년), 도르트신조(1619년) 등을 성경의 가르침에 충실한 것으로 고백한다.
