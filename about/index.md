@@ -13,7 +13,7 @@ published: true
 
 #Pilgrimson?
 Pilgrimson은 순례자의 후손이라는 뜻으로서, 살아계신 하나님의 아들이신 예수님을 주와 그리스도로 받는 모든 순례자들의 뒤를 잇는 자라는 의미로 사용하고 있습니다.
-## Contact me
+# Contact me
 e-mail: pilgrimson@mail.com
 
 twitter: [@SonOfPilgrim](https://twitter.com/SonOfPilgrim)
